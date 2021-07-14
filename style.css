@@ -28,3 +28,13 @@
     height: 50px;
     background-color: purple;
 }
+
+.box1:hover {
+    background-color: purple;
+    cursor: pointer;
+}
+
+.box2:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
